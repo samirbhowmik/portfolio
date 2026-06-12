@@ -1,4 +1,0 @@
----
-outlet: Monocle
-marquee: true
----

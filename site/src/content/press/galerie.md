@@ -1,4 +1,0 @@
----
-outlet: Galerie
-marquee: false
----

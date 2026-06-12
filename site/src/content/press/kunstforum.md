@@ -1,4 +1,0 @@
----
-outlet: Kunstforum
-marquee: false
----
